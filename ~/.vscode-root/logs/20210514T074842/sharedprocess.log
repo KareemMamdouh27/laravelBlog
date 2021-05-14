@@ -1,0 +1,31 @@
+[2021-05-14 07:49:28.158] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-14 11:40:40.689] [sharedprocess] [info] Installing extension: mehedidracula.php-namespace-resolver
+[2021-05-14 11:40:41.510] [sharedprocess] [info] Downloaded extension: mehedidracula.php-namespace-resolver /var/www/laravelBlog/~/.vscode-root/CachedExtensionVSIXs/mehedidracula.php-namespace-resolver-1.1.8
+[2021-05-14 11:40:41.584] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.82b5ba83-a6a3-44bb-816a-fbb339ea8873: mehedidracula.php-namespace-resolver
+[2021-05-14 11:40:41.645] [sharedprocess] [info] Renamed to /root/.vscode/extensions/mehedidracula.php-namespace-resolver-1.1.8
+[2021-05-14 11:40:41.650] [sharedprocess] [info] Installation completed. mehedidracula.php-namespace-resolver
+[2021-05-14 11:40:41.710] [sharedprocess] [info] Extensions installed successfully: mehedidracula.php-namespace-resolver
+[2021-05-14 11:42:55.365] [sharedprocess] [info] Installing extension: ctf0.php-namespace-resolver
+[2021-05-14 11:42:56.488] [sharedprocess] [info] Downloaded extension: ctf0.php-namespace-resolver /var/www/laravelBlog/~/.vscode-root/CachedExtensionVSIXs/ctf0.php-namespace-resolver-0.0.6
+[2021-05-14 11:42:56.527] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.76e6384c-3431-471a-86da-2c58e79da43e: ctf0.php-namespace-resolver
+[2021-05-14 11:42:56.582] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ctf0.php-namespace-resolver-0.0.6
+[2021-05-14 11:42:56.585] [sharedprocess] [info] Installation completed. ctf0.php-namespace-resolver
+[2021-05-14 11:42:56.644] [sharedprocess] [info] Extensions installed successfully: ctf0.php-namespace-resolver
+[2021-05-14 11:42:58.672] [sharedprocess] [info] Installing extension: bmewburn.vscode-intelephense-client
+[2021-05-14 11:43:03.210] [sharedprocess] [info] Installing extension: felixfbecker.php-debug
+[2021-05-14 11:43:03.382] [sharedprocess] [info] Downloaded extension: bmewburn.vscode-intelephense-client /var/www/laravelBlog/~/.vscode-root/CachedExtensionVSIXs/bmewburn.vscode-intelephense-client-1.7.1
+[2021-05-14 11:43:04.813] [sharedprocess] [info] Downloaded extension: felixfbecker.php-debug /var/www/laravelBlog/~/.vscode-root/CachedExtensionVSIXs/felixfbecker.php-debug-1.15.1
+[2021-05-14 11:43:04.932] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.c575ce9c-3af6-4bc7-b7be-7ab9e2c1da27: bmewburn.vscode-intelephense-client
+[2021-05-14 11:43:05.018] [sharedprocess] [info] Renamed to /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.7.1
+[2021-05-14 11:43:05.025] [sharedprocess] [info] Installation completed. bmewburn.vscode-intelephense-client
+[2021-05-14 11:43:05.110] [sharedprocess] [info] Extensions installed successfully: bmewburn.vscode-intelephense-client
+[2021-05-14 11:43:05.555] [sharedprocess] [info] Installing extension: felixfbecker.php-intellisense
+[2021-05-14 11:43:06.253] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.a0adeb61-4a00-4847-92d3-de87801788a0: felixfbecker.php-debug
+[2021-05-14 11:43:06.393] [sharedprocess] [info] Renamed to /root/.vscode/extensions/felixfbecker.php-debug-1.15.1
+[2021-05-14 11:43:06.396] [sharedprocess] [info] Installation completed. felixfbecker.php-debug
+[2021-05-14 11:43:06.499] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-debug
+[2021-05-14 11:43:09.994] [sharedprocess] [info] Downloaded extension: felixfbecker.php-intellisense /var/www/laravelBlog/~/.vscode-root/CachedExtensionVSIXs/felixfbecker.php-intellisense-2.3.14
+[2021-05-14 11:43:10.938] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.f70f68d9-2331-43ec-a447-b0da68fae729: felixfbecker.php-intellisense
+[2021-05-14 11:43:11.003] [sharedprocess] [info] Renamed to /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14
+[2021-05-14 11:43:11.005] [sharedprocess] [info] Installation completed. felixfbecker.php-intellisense
+[2021-05-14 11:43:11.064] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-intellisense

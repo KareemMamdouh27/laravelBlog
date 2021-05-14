@@ -1,0 +1,12 @@
+[Info  - 11:43:06 AM] Initialising intelephense 1.7.1
+[Info  - 11:43:06 AM] Initialised in 8 ms
+[Info  - 11:43:06 AM] Environment changed. Refreshing 6 in memory documents.
+[Warn  - 11:43:07 AM] file:///var/www/laravelBlog/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 11:43:07 AM] Indexing started.
+[Info  - 11:43:20 AM] Indexing ended. 6320 files indexed in 13s.
+[Info  - 11:43:20 AM] Writing state to /var/www/laravelBlog/~/.vscode-root/User/workspaceStorage/699884afe77f5588a34e314a598f21cc/bmewburn.vscode-intelephense-client/61c8ae39.
+[Info  - 11:43:21 AM] Wrote state in 0.9s.
+[Info  - 11:56:18 AM] Indexing started.
+[Info  - 11:56:18 AM] Indexing ended. 3 files indexed in 0s.
+[Info  - 11:56:29 AM] Indexing started.
+[Info  - 11:56:29 AM] Indexing ended. 3 files indexed in 0s.

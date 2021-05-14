@@ -49,18 +49,29 @@ class PostController extends Controller
         $request->image->move(public_path('images') , $newImageName );
 
         $slug = SlugService::createSlug(Post::class,'slug',$request->title);
-        dd($slug);
+        
+        Post::create([
+            'title'       => $request->input('title'),
+            'description' => $request->input('description'),
+            'slug'        =>  SlugService::createSlug(Post::class,'slug',$request->title),
+            'image_path'  => $newImageName, 
+            'user_id'     => auth()->user()->id
+        ]);
+
+        return redirect('/blog')
+            ->with('message', 'Your post has been added!');
     }
 
     /**
      * Display the specified resource.
      *
-     * @param  int  $id
+     * @param  string  $slug
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
+    public function show($slug)
     {
-        //
+        return view('blog.show')
+            ->with('post', Post::where('slug',$slug)->first()) ;
     }
 
     /**

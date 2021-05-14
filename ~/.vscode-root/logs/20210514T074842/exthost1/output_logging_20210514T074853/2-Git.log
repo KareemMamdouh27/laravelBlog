@@ -1168,3 +1168,389 @@ Open repository: /var/www/laravelBlog
 > git check-ignore -v -z --stdin
 > git show --textconv :app/Models/Post.php
 > git ls-files --stage -- /var/www/laravelBlog/app/Models/Post.php
+> git status -z -u
+> git ls-files --stage -- /var/www/laravelBlog/app/Models/Post.php
+> git symbolic-ref --short HEAD
+> git cat-file -s a88f45b36b2121defccbdf1dae01e1653b908087
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :app/Models/Post.php
+> git config --get commit.template
+> git show --textconv :resources/views/blog/create.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/create.blade.php
+> git cat-file -s ef5bbdd23173e32a3ab2be5ec2a38ce4d12bda05
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/layouts/app.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/layouts/app.blade.php
+> git cat-file -s 5d9ec560c77aec94f47e2c6dfa23efdaf7413779
+> git check-ignore -v -z --stdin
+> git show --textconv :resources/views/blog/create.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/create.blade.php
+> git cat-file -s ef5bbdd23173e32a3ab2be5ec2a38ce4d12bda05
+> git show --textconv :resources/views/layouts/app.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/layouts/app.blade.php
+> git cat-file -s 5d9ec560c77aec94f47e2c6dfa23efdaf7413779
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/blog/create.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/create.blade.php
+> git cat-file -s ef5bbdd23173e32a3ab2be5ec2a38ce4d12bda05
+> git show --textconv :resources/views/layouts/app.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/layouts/app.blade.php
+> git cat-file -s 5d9ec560c77aec94f47e2c6dfa23efdaf7413779
+> git status -z -u
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/layouts/app.blade.php
+> git symbolic-ref --short HEAD
+> git cat-file -s 5d9ec560c77aec94f47e2c6dfa23efdaf7413779
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :resources/views/layouts/app.blade.php
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/blog/create.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/create.blade.php
+> git cat-file -s ef5bbdd23173e32a3ab2be5ec2a38ce4d12bda05
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/layouts/app.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/layouts/app.blade.php
+> git cat-file -s 5d9ec560c77aec94f47e2c6dfa23efdaf7413779
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/blog/create.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/create.blade.php
+> git cat-file -s ef5bbdd23173e32a3ab2be5ec2a38ce4d12bda05
+> git show --textconv :resources/views/blog/index.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/index.blade.php
+> git cat-file -s 05860e9aa880463d44e2f25115cc7d91c2deffa6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/blog/create.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/create.blade.php
+> git cat-file -s ef5bbdd23173e32a3ab2be5ec2a38ce4d12bda05
+> git show --textconv :resources/views/blog/index.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/index.blade.php
+> git cat-file -s 05860e9aa880463d44e2f25115cc7d91c2deffa6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/layouts/app.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/layouts/app.blade.php
+> git cat-file -s 5d9ec560c77aec94f47e2c6dfa23efdaf7413779
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/blog/index.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/index.blade.php
+> git cat-file -s 05860e9aa880463d44e2f25115cc7d91c2deffa6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/blog/create.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/create.blade.php
+> git cat-file -s ef5bbdd23173e32a3ab2be5ec2a38ce4d12bda05
+> git show --textconv :resources/views/layouts/app.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/layouts/app.blade.php
+> git cat-file -s 5d9ec560c77aec94f47e2c6dfa23efdaf7413779
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/blog/create.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/create.blade.php
+> git cat-file -s ef5bbdd23173e32a3ab2be5ec2a38ce4d12bda05
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/layouts/app.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/layouts/app.blade.php
+> git cat-file -s 5d9ec560c77aec94f47e2c6dfa23efdaf7413779
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Models/Post.php
+> git ls-files --stage -- /var/www/laravelBlog/app/Models/Post.php
+> git cat-file -s a88f45b36b2121defccbdf1dae01e1653b908087
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/PostController.php
+> git ls-files --stage -- /var/www/laravelBlog/app/Http/Controllers/PostController.php
+> git cat-file -s c9693b571fac1b5866c3846e560081807bf883fa
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/blog/index.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/index.blade.php
+> git cat-file -s 05860e9aa880463d44e2f25115cc7d91c2deffa6
+> git show --textconv :resources/views/blog/create.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/create.blade.php
+> git cat-file -s ef5bbdd23173e32a3ab2be5ec2a38ce4d12bda05
+> git show --textconv :app/Http/Controllers/PostController.php
+> git ls-files --stage -- /var/www/laravelBlog/app/Http/Controllers/PostController.php
+> git cat-file -s c9693b571fac1b5866c3846e560081807bf883fa
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/blog/index.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/index.blade.php
+> git cat-file -s 05860e9aa880463d44e2f25115cc7d91c2deffa6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/PostController.php
+> git ls-files --stage -- /var/www/laravelBlog/app/Http/Controllers/PostController.php
+> git cat-file -s c9693b571fac1b5866c3846e560081807bf883fa
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/blog/show.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/show.blade.php
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/blog/index.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/index.blade.php
+> git cat-file -s 05860e9aa880463d44e2f25115cc7d91c2deffa6
+> git show --textconv :resources/views/blog/show.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/show.blade.php
+> git show --textconv :resources/views/blog/create.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/create.blade.php
+> git cat-file -s ef5bbdd23173e32a3ab2be5ec2a38ce4d12bda05
+> git show --textconv :resources/views/blog/index.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/index.blade.php
+> git cat-file -s 05860e9aa880463d44e2f25115cc7d91c2deffa6
+> git show --textconv :resources/views/blog/create.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/create.blade.php
+> git cat-file -s ef5bbdd23173e32a3ab2be5ec2a38ce4d12bda05
+> git show --textconv :resources/views/blog/index.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/index.blade.php
+> git cat-file -s 05860e9aa880463d44e2f25115cc7d91c2deffa6
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/blog/create.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/create.blade.php
+> git cat-file -s ef5bbdd23173e32a3ab2be5ec2a38ce4d12bda05
+> git show --textconv :resources/views/blog/show.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/show.blade.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/blog/index.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/index.blade.php
+> git cat-file -s 05860e9aa880463d44e2f25115cc7d91c2deffa6
+> git show --textconv :resources/views/blog/show.blade.php
+> git ls-files --stage -- /var/www/laravelBlog/resources/views/blog/show.blade.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

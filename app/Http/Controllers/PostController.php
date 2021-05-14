@@ -95,6 +95,11 @@ class PostController extends Controller
      */
     public function update(Request $request, $slug)
     {
+        $request->validate([
+            'title' => 'required',
+            'description' => 'required',
+        ]);
+
         Post::where('slug',$slug)
             ->update([
                 'title'       => $request->input('title'),
@@ -110,11 +115,15 @@ class PostController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  int  $id
+     * @param  string  $slug
      * @return \Illuminate\Http\Response
      */
-    public function destroy($id)
+    public function destroy($slug)
     {
-        //
+        $post = Post::where('slug',$slug);
+        $post->delete();
+
+        return redirect('/blog')
+            ->with('message','Your post has been deleted');
     }
 }

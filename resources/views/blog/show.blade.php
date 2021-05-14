@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title','New-Blog')
+@section('title','Read more')
 
 @section('content')
     <div class="w-4/5 m-auto text-left"> 
